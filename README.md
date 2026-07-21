@@ -1,4 +1,4 @@
-# Machine Learning Training
+# Training
 
 ## Overview
 This repository contains the Python programs and practice exercises completed during my second-year Machine Learning training as part of my B.Tech in Artificial Intelligence & Machine Learning.
